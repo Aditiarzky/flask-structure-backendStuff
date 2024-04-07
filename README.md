@@ -1,3 +1,5 @@
+Steps that you have to know!!
+
 Install enviorement
 - sudo pip3 install virtualenv
 
